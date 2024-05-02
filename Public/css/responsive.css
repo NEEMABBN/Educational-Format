@@ -1,0 +1,1203 @@
+@media only screen and (max-width: 1496px) {
+    .pick_list {
+        width: 81%;
+    }
+}
+@media only screen and (max-width: 1490px) {
+    .conection_box {
+        width: 81%;
+    }
+}
+@media only screen and (max-width: 1480px) {
+    .firstPart {
+        width: 36%;
+        margin-right: -1%;
+    }
+    .secondPart {
+        width: 45%;
+    }
+    .pick_list {
+        width: 82%;
+    }
+    .conection_box {
+        width: 82%;
+    }
+}
+@media only screen and (max-width: 1465px) {
+    .firstPart {
+        width: 37%;
+        margin-right: -1%;
+    }
+    .secondPart {
+        width: 44%;
+    }
+    .pick_list {
+        width: 83%;
+    }
+}
+@media only screen and (max-width: 1455px) {
+    .conection_box {
+        width: 83%;
+    }
+}
+@media only screen and (max-width: 1450px) {
+    .firstPart {
+        margin-right: 1%;
+    }
+}
+@media only screen and (max-width: 1445px) {
+    .pick_list {
+        width: 84%;
+    }
+}
+@media only screen and (max-width: 1438px) {
+    .conection_box {
+        width: 84%;
+    }
+}
+@media only screen and (max-width: 1430px) {
+    .pick_list {
+        width: 85%;
+    }
+}
+@media only screen and (max-width: 1420px) {
+    .firstPart {
+        margin-right: 2%;
+    }
+    .hard_border_animate {
+        display: none;
+    }
+    .conection_box {
+        width: 85%;
+    }
+}
+@media only screen and (max-width: 1410px) {
+    .pick_list {
+        width: 86%;
+    }
+}
+@media only screen and (max-width: 1403px) {
+    .conection_box {
+        width: 86%;
+    }
+}
+@media only screen and (max-width: 1395px) {
+    .pick_list {
+        width: 89%;
+    }
+}
+@media only screen and (max-width: 1390px) {
+    .secondPart {
+        width: 45%;
+    }
+}
+@media only screen and (max-width: 1385px) {
+    .conection_box {
+        width: 87%;
+    }
+}
+@media only screen and (max-width: 1370px) {
+    .ben_img {
+        width: 49%;
+    }
+    .conection_box {
+        width: 88%;
+    }
+    .ben_img img {
+        width: 140%;
+    }
+    .benefit_pink_animate {
+        display: none;
+    }
+    .ben_text h2 {
+        font-size: 35px;
+    }
+    .ben_text {
+        margin-right: -1%;
+        width: 44%;
+    }
+    .benefit_white_circle_animate {
+        left: -345px;
+    }
+    .hard_animate_dotted1 {
+        display: none;
+    }
+}
+@media only screen and (max-width: 1355px) {
+    .conection_box {
+        width: 89%;
+    }
+}
+@media only screen and (max-width: 1350px) {
+    .firstPart {
+        width: 38%;
+    }
+    .secondPart {
+        width: 46%;
+    }
+    .pick_list {
+        width: 94%;
+    }
+}
+@media only screen and (max-width: 1340px) {
+    .conection_box {
+        width: 90%;
+    }
+}
+@media only screen and (max-width: 1325px) {
+    .conection_box {
+        width: 91%;
+    }
+}
+@media only screen and (max-width: 1310px) {
+    .conection_box {
+        width: 92%;
+    }
+}
+@media only screen and (max-width: 1296px) {
+    .conection_box {
+        width: 93%;
+    }
+}
+@media only screen and (max-width: 1284px) {
+    .conection_box {
+        width: 94%;
+    }
+}
+@media only screen and (max-width: 1280px) {
+    .nav-menu {
+        margin-left: 18%;
+    }
+    .firstPart {
+        width: 41%;
+        margin-right: 0%;
+    }
+    .secondPart {
+        width: 52%;
+    }
+    .pick_list {
+        width: 97%;
+    }
+    .ben_img img {
+        width: 150%;
+    }
+    .benefit_white_circle_animate {
+        display: none;
+    }
+    .ben_text h2 {
+        font-size: 37px;
+    }
+    .ben_text {
+        width: 47%;
+        margin-right: 0%;
+    }
+}
+@media only screen and (max-width: 1270px) {
+    .conection_box {
+        width: 95%;
+    }
+}
+@media only screen and (max-width: 1255px) {
+    .conection_box {
+        width: 96%;
+    }
+}
+@media only screen and (max-width: 1242px) {
+    .conection_box {
+        width: 97%;
+    }
+}
+@media only screen and (max-width: 1230px) {
+    .brand {
+        margin-left: 0%;
+    }
+    .firstPart {
+        margin-right: 2%;
+    }
+    .secondPart {
+        width: 55%;
+    }
+    .pick_list {
+        width: 100%;
+    }
+    .conection_box {
+        width: 98%;
+    }
+}
+@media only screen and (max-width: 1215px) {
+    .conection_box {
+        width: 99%;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .firstPart {
+        margin: 20% 0% 0% 0%;
+    }
+    #hide-btn {
+        display: inline-block;
+    }
+    .all_list {
+        display: none;
+    }
+    .navbar {
+        top: 0px;
+    }
+    .nav-menu {
+        margin-left: 56%;
+    }
+    .space_animate , .handland_animate , .circle_animate , .dotted_animate , .icon1 , .secondPart_beef , .anim_cirk , .anim_ugly , .iconx{
+        display: none;
+    }
+    .bold_text h1 {
+        font-size: 45px;
+    }
+    .jessika {
+        width: 127%;
+        bottom: -55px;
+    }
+    .FP {
+        width: auto;
+    }
+    .man {
+        right: 40px;
+    }
+    .woman {
+        bottom: 45px;
+        left: 240px;
+    }
+    .about_text {
+        width: 45%;
+        margin: 16% -6% 11% 12%;
+    }
+    .about_img {
+        margin: 2% 0% 2% 0%;
+    }
+    .pick_list {
+        width: 101%;
+    }
+    .single_pick {
+        margin: 0px 15px 40px 15px;
+    }
+    .ben_img img {
+        width: 160%;
+    }
+    .ben_text {
+        width: 50%;
+    }
+    .benefit_dotted_animate {
+        display: none;
+    }
+    .hard_animate_dotted2 {
+        display: none;
+    }
+    .hard_animate {
+        display: none;
+    }
+    .side_photo {
+        margin: 35px 0px 0px 0px;
+    }
+    .slide_window {
+        margin-bottom: 18%;
+    }
+    .skill_dotted_animate , .skill_mini_dotted_animate , .skill_circle_animate , .skill_liner_animate {
+        display: none;
+    }
+    .conection_box {
+        width: 101%;
+    }
+}
+@media only screen and (max-width: 1166px) {
+    .nav-menu {
+        margin-left: 55%;
+    }
+}
+@media only screen and (max-width: 1140px) {
+    .nav-menu {
+        margin-left: 54%;
+    }
+}
+@media only screen and (max-width: 1115px) {
+    .nav-menu {
+        margin-left: 53%;
+    }
+}
+@media only screen and (max-width: 1090px) {
+    .nav-menu {
+        margin-left: 52%;
+    }
+}
+@media only screen and (max-width: 1066px) {
+    .nav-menu {
+        margin-left: 51%;
+    }
+}
+@media only screen and (max-width: 1045px) {
+    .nav-menu {
+        margin-left: 49%;
+    }
+}
+@media only screen and (max-width: 1002px) {
+    .nav-menu {
+        margin-left: 47%;
+    }
+    .service_box1 , .service_box2 , .service_box3 , .service_box4 {
+        padding: 30px 25px;
+    }
+    .woman {
+        bottom: 65px;
+        left: 145px;
+    }
+    .about_text {
+        width: 39%;
+        margin: 19% 0% 8% 10%;
+    }
+    .textick {
+        font-size: 19px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        display: -webkit-box;
+    }
+    .kojaii {
+        font-size: 17px;
+    }
+    .prog1 , .prog2 , .prog3 , .prog4 {
+        margin: 0px 35px;
+    }
+    .progress_box {
+        padding: 90px 0px;
+    }
+    .ben_text {
+        width: 48%;
+    }
+    .ben_img {
+        width: 50%;
+    }
+    .ben_img img {
+        width: 173%;
+    }
+    .teach_box {
+        width: 100%;
+        margin: 50px 0px 0px 0px;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .teach_detail1 {
+        padding-right: 0px;
+        margin-right: 0px;
+        margin-left: 14px;
+    }
+    .teach_detail2 , .teach_detail3 {
+        padding-right: 0px;
+        margin-right: 0px;
+        margin-left: 37px;
+    }
+    .TF1 , .TF2 , .TF3 {
+        width: 80%;
+    }
+    .share_box {
+        right: 80px;
+    }
+    .teach_name1 {
+        right: -33px;
+    }
+    .teach_name2 {
+        right: -44px;
+    }
+    .teach_name3 {
+        right: -13px;
+    }
+    .ezafe {
+        right: -10px;
+    }
+    .uni_box {
+        padding: 135px 0px 135px 0px;
+    }
+    .uni_photo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0px 30px;
+    }
+    .uni_photo img {
+        width: 120%;
+    }
+    .head_plan {
+        width: 67%;
+    }
+    .pelan1 , .pelan2 , .pelan3 {
+        padding: 35px 0px;
+    }
+    .inside_skill {
+        width: 100%;
+    }
+    .conection_box {
+        width: 100%;
+    }
+    .page_box {
+        width: 242px;
+        margin-left: 0px;
+    }
+    .online_box {
+        margin-left: 45px;
+    }
+    .link_box {
+        margin-left: 60px;
+    }
+    .register_box {
+        width: 320px;
+        margin-left: 20px;
+    }
+    .inpin {
+        width: 45%;
+    }
+    .firstPart {
+        width: 47%;
+        margin: 22% 0% 0% 2%;
+    }
+    .secondPart {
+        margin: 7% 0% 0% 0%;
+        width: 58%;
+    }
+    .jessika {
+        transform: none;
+        width: 135%;
+        bottom: -40px;
+        right: 95px;
+    }
+    .side {
+        width: 85%;
+    }
+    .side_photo {
+        justify-content: flex-end;
+        margin: 35px 0px 0px -15px;
+        width: 43%;
+    }
+    .all_slide {
+        width: 50%;
+    }
+    .slide_rail {
+        left: -625px;
+    }
+    .open_slide0 , .open_slide1 , .open_slide2 , .open_slide3 , .open_slide4 , .open_slide5 {
+        width: 500px;
+        padding: 67px 35px;
+        margin: 0px 10px 0px 22px;
+    }
+}
+@media only screen and (max-width: 990px) {
+    .part {
+        flex-direction: column;
+    }
+    .firstPart {
+        width: 100%;
+        margin: 12% 0% 0% 0%;
+        align-items: center;
+    }
+    .bold_text h1 {
+        text-align: center;
+        font-size: 39px;
+    }
+    .FP {
+        margin: 2% 0%;
+    }
+    .secondPart {
+        width: 100%;
+        margin: 1% 0% 0% 0%;
+        display: flex;
+        justify-content: center;
+    }
+    .jessika {
+        transform: none !important;
+        right: 0px;
+        width: 85%;
+    }
+    .main {
+        padding: 30px 0px 90px 0px;
+    }
+    .health-box h2 {
+        font-size: 30px;
+    }
+    .health_img {
+        flex-wrap: wrap;
+    }
+    .service_box1 , .service_box2 , .service_box3 , .service_box4 {
+        width: 400px;
+        margin: 15px 15px;
+    }
+    .about_box {
+        flex-direction: column;
+        align-items: center;
+    }
+    .about_img {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin: 2% 0% 0% 0%;
+        padding: 100px 0px 70px 0px;
+    }
+    .woman {
+        bottom: 15px;
+        left: 560px;
+    }
+    .haha {
+        font-size: 30px;
+    }
+    .haha br {
+        display: none;
+    }
+    .paragera {
+        letter-spacing: -0.5px;
+    }
+    .about_text {
+        width: 97%;
+        margin: 0%;
+    }
+    .zeshte {
+        margin: 23px 0px 15px 0px;
+    }
+    .classic {
+        font-size: 30px;
+    }
+    .pick_list {
+        width: 100%;
+    }
+    .single_pick {
+        width: 47%;
+        margin: 0px 10px 40px 10px;
+    }
+    .profile_box {
+        width: 85%;
+    }
+    .progress_box {
+        flex-wrap: wrap;
+    }
+    .prog1 , .prog2 , .prog3 , .prog4 {
+        margin: 30px 35px;
+        width: 40%;
+    }
+    .benefit_box {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .ben_img {
+        width: 97%;
+    }
+    .ben_text {
+        width: 97%;
+        margin: 0% 0% 10% 0%;
+    }
+    .ben_text h2 {
+        font-size: 30px;
+    }
+    .fit {
+        margin-top: 50px;
+    }
+    .fit2 {
+        letter-spacing: -0.5px;
+        width: 100%;
+    }
+    .insas {
+        font-size: 30px;
+    }
+    .teach_box {
+        flex-wrap: wrap;
+    }
+    .teach_detail1 {
+        width: 468px;
+    }
+    .teach_detail2 {
+        width: 468px;
+        margin-left: 33px;
+    }
+    .teach_detail3 {
+        width: 468px;
+        margin-left: 14px;
+        margin-top: 32px;
+    }
+    .TF1 , .TF2 , .TF3 {
+        width: 85%;
+    }
+    .uni_box {
+        flex-wrap: wrap;
+    }
+    .uni_photo {
+        padding: 10px 100px;
+    }
+    .side_slide {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .all_slide {
+        width: 82%;
+    }
+    .open_slide0 , .open_slide1 , .open_slide2 , .open_slide3 , .open_slide4 , .open_slide5 {
+        width: 875px;
+    }
+    .slide_window {
+        margin-bottom: 0%;
+    }
+    .side_photo {
+        width: 100%;
+        justify-content: center;
+        margin: 0%;
+    }
+    .side {
+        width: 37%;
+    }
+    .plan_box {
+        padding-top: 100px;
+    }
+    .plan_tittle {
+        font-size: 30px;
+    }
+    .show_plan {
+        flex-wrap: wrap;
+    }
+    .pelan1 , .pelan2 {
+        width: 45%;
+    }
+    .pelan3 {
+        margin-top: 3%;
+        width: 45%;
+    }
+    .skill_box {
+        padding: 75px 0px;
+    }
+    .skill_text {
+        font-size: 30px;
+    }
+    .conection_box {
+        flex-wrap: wrap;
+        margin: 90px 0px 40px 0px;
+    }
+    .page_box {
+        width: 450px;
+    }
+    .online_box {
+        width: 370px;
+    }
+    .plat_ul {
+        margin: 5px 0px 0px 0px;
+    }
+    .link_box {
+        margin: 20px 0px 0px 17px;
+        width: 450px;
+    }
+    .link_ul {
+        margin: 5px 0px 0px 0px;
+    }
+    .register_box {
+        margin: 20px 0px 0px 25px;
+        width: 490px;
+    }
+    .register_box p {
+        margin: 15px 0px 20px 0px;
+    }
+    .inpt_btn {
+        width: 100%;
+    }
+    .inpin {
+        width: 62%;
+        padding: 15px 0px 15px 25px;
+        margin-right: 10px;
+    }
+}
+@media only screen and (max-width: 950px) {
+    .nav-menu {
+        margin-left: 46%;
+    }
+    .firstPart {
+        margin: 13% 0% 0% 0%;
+    }
+    .service_box1 , .service_box2 , .service_box3 , .service_box4 {
+        width: 390px;
+    }
+    .progress_box {
+        padding: 40px 0px;
+    }
+    .ben_img {
+        width: 100%;
+    }
+    .teach_detail1 , .teach_detail2 , .teach_detail3 {
+        width: 450px;
+    }
+    .uni_photo {
+        padding: 10px 90px;
+    }
+    .open_slide0 , .open_slide1 , .open_slide2 , .open_slide3 , .open_slide4 , .open_slide5 {
+        width: 830px;
+    }
+    .all_slide {
+        width: 79%;
+    }
+    .register_box {
+        width: 440px;
+    }
+    .inpin {
+        width: 58%;
+    }
+    .bold_text h1 {
+        font-size: 38px;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .nav-menu {
+        margin-left: 35%;
+    }
+    .FP {
+        width: 80%;
+        text-align: center;
+    }
+    .firstPart {
+        margin: 16% 0% 0% 0%;
+    }
+    .jessika {
+        width: 95%;
+    }
+    .service_box1 , .service_box2 , .service_box3 , .service_box4 {
+        width: 315px;
+    }
+    .woman {
+        left: 370px;
+    }
+    .teach_detail1 , .teach_detail2 , .teach_detail3 {
+        width: 370px;
+    }
+    .TF1 , .TF2 , .TF3 {
+        width: 82%;
+    }
+    .uni_photo {
+        padding: 10px 70px;
+    }
+    .all_slide {
+        width: 67%;
+    }
+    .open_slide0 , .open_slide1 , .open_slide2 , .open_slide3 , .open_slide4 , .open_slide5 {
+        width: 690px;
+    }
+    .head_plan p {
+        letter-spacing: -0.5px;
+        margin: 20px 0px 15px 0px;
+    }
+    .conection_box {
+        margin: 80px 0px 40px 0px;
+    }
+    .page_box {
+        width: 400px;
+    }
+    .online_box {
+        margin-left: 20px;
+    }
+    .link_box {
+        width: 400px;
+    }
+    .register_box {
+        width: 378px;
+        margin: 20px 0px 0px 0px;
+    }
+    .inpin {
+        width: 50%;
+    }
+}
+@media only screen and (max-width: 766px) {
+    .btn {
+        display: none;
+    }
+    .srch {
+        margin: 0px;
+    }
+    .nav-menu {
+        margin-left: 63%;
+    }
+    .bold_text h1 {
+        font-size: 34px;
+    }
+    .FP {
+        width: auto;
+    }
+    .btn2 {
+        padding: 18px 26px;
+        font-size: 15px;
+    }
+    .health-box h2 {
+        font-size: 26px;
+    }
+    .health-box {
+        padding-top: 25px;
+    }
+    .service_box1 , .service_box2 , .service_box3 , .service_box4 {
+        width: 100%;
+    }
+    .main {
+        padding: 30px 0px 60px 0px;
+    }
+    .about_img {
+        padding: 70px 0px;
+    }
+    .man {
+        right: 0px;
+    }
+    .woman {
+        display: none;
+    }
+    .haha {
+        font-size: 26px;
+    }
+    .course_box {
+        padding-top: 85px;
+    }
+    .classic {
+        font-size: 26px;
+    }
+    .single_pick {
+        margin: 0px 10px 20px 10px;
+    }
+    .kojaii {
+        padding: 19px 22px;
+        font-size: 15px;
+    }
+    .prog1 , .prog2 , .prog3 , .prog4 {
+        width: 41%;
+    }
+    .ben_img img {
+        width: 100%;
+    }
+    .ben_text h2 {
+        font-size: 26px;
+    }
+    .ben_bar {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .ben_click {
+        padding: 18px 20px;
+    }
+    .instro_box {
+        margin-top: 85px;
+    }
+    .insas {
+        font-size: 26px;
+    }
+    .teach_detail1 , .teach_detail2 , .teach_detail3 {
+        width: 100%;
+        margin: 0px 0px 10px 14px;
+    }
+    .uni_box {
+        padding: 90px 0px 135px 0px;
+    }
+    .uni_photo {
+        padding: 10px 120px;
+    }
+    .uni_photo:nth-child(2) , .uni_photo:nth-child(4) {
+        border: none;
+    }
+    .all_slide {
+        width: 64%;
+    }
+    .open_slide0 , .open_slide1 , .open_slide2 , .open_slide3 , .open_slide4 , .open_slide5 {
+        width: 650px;
+    }
+    .pelan1 , .pelan2 , .pelan3 {
+        width: 100%;
+        margin-bottom: 3%;
+    }
+    .price_box {
+        width: 90%;
+    }
+    .last_punch1 , .last_punch2 , .last_punch3 {
+        font-size: 15px;
+    }
+    .skill_box {
+        padding: 70px 0px;
+    }
+    .skill_text {
+        font-size: 26px;
+    }
+    .skill_btn {
+        padding: 18px 20px;
+        font-size: 15px;
+    }
+    .conection_box {
+        margin: 55px 0px 40px 0px;
+    }
+    .page_box {
+        width: 100%;
+    }
+    .online_box , .link_box , .register_box {
+        width: 100%;
+        margin: 20px 0px 0px 13px;
+    }
+    .inpt_btn {
+        flex-direction: column;
+    }
+    .last_of_btn {
+        width: 99%;
+    }
+    .inpin {
+        width: 95.6%;
+        margin-bottom: 20px;
+    }
+}
+@media only screen and (max-width: 651px) {
+    .nav-menu {
+        margin-left: 58%;
+    }
+    .FP {
+        width: 90%;
+        margin: 3% 0%;
+    }
+    .firstPart {
+        margin: 20% 0% 0% 0%;
+    }
+    .single_pick {
+        width: 45%;
+    }
+    .ben_text h2 {
+        font-size: 25px;
+        margin: 5px 0px;
+    }
+    .share_box {
+        right: 135px;
+    }
+    .uni_box {
+        padding: 75px 0px 80px 0px;
+    }
+    .uni_photo {
+        padding: 10px 100px;
+    }
+    .all_slide {
+        width: 56%;
+    }
+    .open_slide0 , .open_slide1 , .open_slide2 , .open_slide3 , .open_slide4 , .open_slide5 {
+        width: 560px;
+    }
+    .inpin {
+        width: 95%;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .nav-menu {
+        margin-left: 54%;
+    }
+    .FP {
+        width: 95%;
+    }
+    .haha {
+        line-height: 35px;
+    }
+    .chikar_kardi {
+        padding: 17px 21px;
+        font-size: 15px;
+    }
+    .textick {
+        font-size: 17px;
+    }
+    .about_img {
+        padding: 70px 0px 15px 0px;
+    }
+    .kojaii {
+        padding: 17px 19px;
+    }
+    .fit1 {
+        line-height: 40px;
+    }
+    .fit {
+        margin-bottom: 10px;
+    }
+    .uni_photo {
+        padding: 10px 80px;
+    }
+    .all_slide {
+        width: 52%;
+    }
+    .open_slide0 , .open_slide1 , .open_slide2 , .open_slide3 , .open_slide4 , .open_slide5 {
+        width: 510px;
+    }
+    .plan_box {
+        padding-top: 70px;
+    }
+    .plan_tittle {
+        font-size: 26px;
+    }
+    .head_plan {
+        width: 99%;
+    }
+    .inside_skill {
+        width: 90%;
+    }
+    .skill_text {
+        line-height: 40px;
+    }
+    .inpin {
+        width: 94%;
+    }
+}
+@media only screen and (max-width: 551px) {
+    .nav-menu {
+        margin-left: 50%;
+    }
+    .main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .firstPart {
+        margin: 23% 0% 0% 0%;
+    }
+    .health-box {
+        width: 95%;
+    }
+    .health-box h2 {
+        text-align: center;
+    }
+    .multi_cildz {
+        font-size: 15px;
+    }
+    .multi_item {
+        margin: 10px 0px 23px 0px;
+    }
+    .single_pick {
+        width: 100%;
+    }
+    .ben_click {
+        padding: 16px 18px;
+    }
+    .uni_photo {
+        padding: 10px 70px;
+    }
+    .all_slide {
+        width: 48%;
+    }
+    .open_slide0 , .open_slide1 , .open_slide2 , .open_slide3 , .open_slide4 , .open_slide5 {
+        width: 460px;
+    }
+    .change_plan {
+        flex-direction: column;
+    }
+    .chose_dad {
+        margin: 20px 35px;
+    }
+    .head_plan {
+        width: 90%;
+    }
+}
+@media only screen and (max-width: 501px) {
+    .nav-menu {
+        margin-left: 45%;
+    }
+    .part {
+        align-items: center;
+    }
+    .firstPart {
+        width: 95%;
+    }
+    .FP {
+        margin: 5% 0%;
+    }
+    .uni_photo {
+        padding: 10px 60px;
+    }
+    .all_slide {
+        width: 43%;
+    }
+    .open_slide0 , .open_slide1 , .open_slide2 , .open_slide3 , .open_slide4 , .open_slide5 {
+        width: 400px;
+    }
+    .btn_bar {
+        display: none;
+    }
+    .inside_skill {
+        width: 100%;
+    }
+    .copy_note {
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 420px) {
+    .nav-menu {
+        margin-left: 35%;
+    }
+    .firstPart {
+        margin: 30% 0% 0% 0%;
+    }
+    .health-box h2 {
+        line-height: 35px;
+    }
+    .man {
+        width: 380px;
+        height: 515px;
+    }
+    .haha br {
+        display: block;
+    }
+    .share_box {
+        right: 95px;
+    }
+    .uni_photo {
+        padding: 10px 40px;
+    }
+    .all_slide {
+        width: 36%;
+    }
+    .open_slide0 , .open_slide1 , .open_slide2 , .open_slide3 , .open_slide4 , .open_slide5 {
+        width: 320px;
+    }
+    .inside_skill {
+        width: 90%;
+    }
+    .inpin {
+        width: 92%;
+    }
+}
+@media only screen and (max-width: 350px) {
+    .nav-menu {
+        margin-left: 23%;
+    }
+    .man {
+        width: 320px;
+        height: 440px;
+    }
+    .about_text {
+        width: 94%;
+    }
+    .classic {
+        text-align: center;
+    }
+    .ben_text {
+        width: 93%;
+    }
+    .share_box {
+        right: 80px;
+    }
+    .uni_photo {
+        padding: 10px 25px;
+    }
+    .all_slide {
+        width: 30%;
+    }
+    .open_slide0 , .open_slide1 , .open_slide2 , .open_slide3 , .open_slide4 , .open_slide5 {
+        width: 250px;
+    }
+    .side {
+        width: 30%;
+    }
+    .plan_tittle {
+        text-align: center;
+    }
+    .inside_skill {
+        width: 100%;
+    }
+    .inpin {
+        width: 89.3%;
+    }
+    .last_of_btn {
+        width: 97%;
+    }
+    .copy_note {
+        line-height: 25px;
+    }
+}
